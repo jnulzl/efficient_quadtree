@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libefficient_quadtree.so.1 -o ../libefficient_quadtree.so.1.0.0 CMakeFiles/efficient_quadtree.dir/clone.cpp.o CMakeFiles/efficient_quadtree.dir/poisson_solver.cpp.o -lopencv_core -lopencv_imgproc -lopencv_imgcodecs -lopencv_highgui 
