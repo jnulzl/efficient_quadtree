@@ -1,1 +1,0 @@
-/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/efficient_quadtree_demo.dir/seamless_cloning.cpp.o  -o ../efficient_quadtree_demo -Wl,-rpath,/mnt/d/code/Possion/efficient_quadtree_clion/build ../libefficient_quadtree.so.1.0.0 -lopencv_core -lopencv_imgproc -lopencv_imgcodecs -lopencv_highgui 
