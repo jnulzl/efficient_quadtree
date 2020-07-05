@@ -14,7 +14,7 @@ make -j8
 
     - **OpenCV** for process image
     
-    - **Eigen**  for solver equation
+    - **Eigen**  for solve equation
     
 - Operate Systeam
 
