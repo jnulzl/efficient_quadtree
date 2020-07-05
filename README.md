@@ -1,6 +1,6 @@
 # 用cmake重新组织代码
 
-- 构建过程
+- Build
 
 ```shell
 mkdir build
@@ -9,6 +9,17 @@ cmake ../ -DCMAKE_BUILD_TYPE=Release
 make -j8
 ./efficient_quadtree_demo ../data/test1/bg.jpg ../data/test1/fg.jpg ../data/test1/mask.jpg 100 100 
 ```
+
+- Dependencies
+
+    - **OpenCV** for process image
+    
+    - **Eigen**  for solver equation
+    
+- Operate Systeam
+
+    - Ubuntu 18.04    
+     
 
 # ------------------------------
 
